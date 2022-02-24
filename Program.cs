@@ -6,6 +6,7 @@ namespace First_CSharp_Program
     {
         static void Main(string[] args)
         {
+            // This is a github demo
             string name;
             int age;
             Console.WriteLine("Enter your name: ");
